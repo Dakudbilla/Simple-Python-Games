@@ -1,0 +1,1 @@
+words=["me","you","Them","Daniel","joel","yawa"]
